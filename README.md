@@ -56,6 +56,7 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
+
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
@@ -100,6 +101,7 @@ I used HTML and CSSto build this project
 - **[It displays Hello Microverse text in a browser]**
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -109,6 +111,7 @@ I used HTML and CSSto build this project
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,3 +225,4 @@ This project is [MIT](./LICENSE.md) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p
+
